@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>Ayoub Dev</title>
+  <link  rel="stylesheet" href="style.css" type="text/css" />
+</head>
+
+<body>
+    <div id="div0">
+    <h1>Ayoub</h1> 
+        <img id=image src=image.jpeg.jpg>
+     <p id=first-p> Hello My Name Is Ayoub Im From Algeria
+
+     </p>
+      <hr>
+      <ul>
+        <li><strong>Name:</strong> <span>Ayoub Bensalem</span></li>
+        <li><strong>Age:</strong> <span>14 Years Old</span></li>
+        <li><strong>Nationality:</strong> <span>Algeria</span></li>
+        <li id=siteayoub><strong><p><ul><u>Site Owner</strong></u></ul></strong>
+      </ul>
+       <hr>
+
+      
+      <a href="https://discord.gg/TDF7BZB4" target="_blank"><img id=discord1 src=discord.png></a>
+      <a href="https://www.facebook.com/bensalemayoub01" target="_blank"><img id=facebook1 src=facebook.png></a>
+      <a href="https://www.instagram.com/bensalemayoub01/" target="_blank"><img id=instagram1 src=instagram.png></a>
+       <a href="https://www.tiktok.com/@ayoub_devtwo" target="_blank"><img id=tiktok1 src=tik-tok.png></a>
+       <a href="https://www.linkedin.com/in/ayoub-bensalem/" target="_blank"><img id=linkedin1 src=linkedin.png></a>
+        <a href="https://www.pinterest.com/Ayoub_dev/" target="_blank"><img id=pinterest1 src=pinterest.png></a>
+        <a href="https://github.com/Ayoubbens" target="_blank"><img id=github1 src=github-sign.png></a>
+  </div>
+
+  <div id="div0">
+    <h1>Ossama</h1> 
+        <img id=image src=ossama.jpeg.jpg>
+     <p id=first-p> Hello My Name Is Ossama Im From Algeria
+
+     </p>
+      <hr>
+      <ul>
+        <li><strong>Name:</strong> <span>Ossama Bensalem</span></li>
+        <li><strong>Age:</strong> <span>16 Years Old</span></li>
+        <li><strong>Nationality:</strong> <span>Algeria</span></li>
+      </ul>
+       <hr>
+      
+      <a href="https://www.facebook.com/ossamamca8" target="_blank"><img id=facebook1 src=facebook.png></a>
+      <a href="https://www.instagram.com/bensalem._.ossama/" target="_blank"><img id=instagram1 src=instagram.png></a>
+
+  </div>
+
+  <div id="div0">
+    <h1>Othman</h1> 
+        <img id=image src=othman.jpeg.jpg>
+     <p id=first-p> Hello My Name Is Othman Im From Algeria
+
+     </p>
+      <hr>
+      <ul>
+        <li><strong>Name:</strong> <span>Othman Bensalem</span></li>
+        <li><strong>Age:</strong> <span>13 Years Old</span></li>
+        <li><strong>Nationality:</strong> <span>Algeria</span></li>
+      </ul>
+       <hr>
+      
+      <a href="https://www.facebook.com/profile.php?id=100047871247007" target="_blank"><img id=facebook1 src=facebook.png></a>
+      <a href="https://www.instagram.com/_othman_bens/" target="_blank"><img id=instagram1 src=instagram.png></a>
+
+  </div>
+
+  
+</body>
+
+</html>
+
+
+css
+
+
+
+
+
+
+html, body, h1, ul{
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  max-width: 600px;
+  min-width: 400px;
+  padding-left: 225px;
+  padding-right: 10%;
+  padding-bottom: 10px;
+  background-color: #858585;
+}
+
+
+#div0 {
+  background-color: #bcbcbc;
+  border: 4px solid #000000;
+  width: 70%;
+  margin-top: 10px;
+  margin-left: 20px;
+  padding-right: 50px;
+  padding-left: 70px;
+  padding-bottom: 1px;
+}
+
+h1 {
+  max-width: 100%;
+  color: #5c1515;
+  margin-top: 20px;
+  text-decoration:underline;
+  border: 4px solid #000000;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+
+#first-p {
+  color: #5c1515;
+  font-weight: 700;
+  margin: 15px ;
+  font-size: 20px;
+}
+
+#image {
+  max-width: 100%;
+  margin-top: 25px;
+  height: 300px;
+  border: 4px solid #000000;
+  margin-bottom: 5px;
+  box-sizing: border-box;
+
+}
+
+hr {
+  border: 2px solid black;
+}
+
+ul {
+  list-style: none;
+  margin: 15px 0;
+}
+
+li {
+  font-size: 20px;
+  color: #007cff;
+}
+
+strong {
+  color: #005fc8;
+}
+
+
+#discord1 {
+  height: 25px;
+}
+ 
+#facebook1 {
+  height: 25px;
+}
+
+#instagram1 {
+  height: 25px;
+}
+
+ #tiktok1 {
+    height: 25px;
+ }
+
+ #linkedin1 {
+  height: 25px;
+ }
+
+ #pinterest1 {
+  height: 25px;
+ }
+
+ #github1 {
+  height: 25px;
+ }
+
+ #siteayoub {
+  color: #000000;
+  padding-left: 30%;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
